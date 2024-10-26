@@ -1,20 +1,23 @@
-EX 9 Implementation of K Means Clustering for Customer Segmentation
-DATE:
-AIM:
+# EX 9 Implementation of K Means Clustering for Customer Segmentation
+## DATE:
+## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
 
-Equipments Required:
-Hardware – PCs
-Anaconda – Python 3.7 Installation / Jupyter notebook
-Algorithm
-Data Preprocessing
-Initialize Centroids
-Assign Clusters
-Update Centroids
-Program:
+## Equipments Required:
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Jupyter notebook
+
+## Algorithm
+1. Data Preprocessing
+2. Initialize Centroids
+3. Assign Clusters
+4. Update Centroids
+
+## Program:
+```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: HARISH GOWTHAM
+Developed by: HARISH GOWTHAM E
 RegisterNumber:2305002009
 */
 import numpy as np
@@ -55,8 +58,18 @@ plt.legend()
 plt.grid(True)
 plt.axis('equal')
 plt.show()
-Output:
-Screenshot 2024-10-24 144554 Screenshot 2024-10-24 144649 Screenshot 2024-10-24 144738 Screenshot 2024-10-24 144853
+```
 
-Result:
+## Output:
+![Screenshot 2024-10-24 144554](https://github.com/user-attachments/assets/27cf5689-5334-4c2d-9537-d8cf8aced28c)
+![Screenshot 2024-10-24 144649](https://github.com/user-attachments/assets/edb336ef-1f54-418f-aaa4-d30eec402406)
+![Screenshot 2024-10-24 144738](https://github.com/user-attachments/assets/a03a5768-d1d8-48da-9150-94675b3a6a36)
+![Screenshot 2024-10-24 144853](https://github.com/user-attachments/assets/28f029f9-93cc-4cea-8154-3f786264c210)
+
+
+
+
+
+
+## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
